@@ -6,7 +6,7 @@
 
 		Assume the site name is http://localhost.rss/
 		
-		To specify other url then the default one pass the url as query paramter with name "feed_url" and to modify the item count 		 the parameter name is "size"
+		To specify other url other then the default one pass the url as query paramter with name "feed_url" and to modify the item count 		 the parameter name is "size"
 		
 		eg: http://localhost.rss/?size=20&feed_url=http://feeds.feedburner.com/ndtvsports-cricket
 
