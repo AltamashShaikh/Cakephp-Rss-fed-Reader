@@ -1,6 +1,6 @@
 ## A simple Rss feed Reader which accepts the url as query parameter and displays the item.
 
-## By default the rss feed url is https://www.reddit.com/.rss and no items will be shown is 10
+## By default the rss feed url is https://www.reddit.com/.rss and total items will be shown is 10
 
 ## To specify the url or item count make the following request
 
